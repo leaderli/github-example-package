@@ -11,7 +11,7 @@
         <repository>
             <id>github</id>
             <name>GitHub ManjunathPrabhakar Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/leaderli/maven_repository</url>
+            <url>https://maven.pkg.github.com/leaderli/github-example-package</url>
 
         </repository>
     </distributionManagement>
